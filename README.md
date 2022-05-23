@@ -1,1 +1,1 @@
-## Play a game here => https://replit.com/@SviatoslavBordovski/Hangman
+## Play a game here => <a target="_blank">https://replit.com/@SviatoslavBordovski/Hangman</a>
