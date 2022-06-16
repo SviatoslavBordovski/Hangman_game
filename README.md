@@ -1,1 +1,1 @@
-## Play a game here => https://replit.com/@SviatoslavBordovski/Hangman
+## Play game here => https://replit.com/@SviatoslavBordovski/Hangman
