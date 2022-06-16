@@ -14,7 +14,7 @@ def guess_letter():
   for _ in range(word_length):
       display += "_"
 
-  #Guessing letters...
+  # Guessing letters...
   while "_" in display:
     guess = input("Guess a letter: ").lower()
     if guess in display:
