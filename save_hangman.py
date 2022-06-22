@@ -18,7 +18,7 @@ def guess_letter():
   while "_" in display:
     guess = input("Guess a letter: ").lower()
     if guess in display:
-      print("Already guessed, don't repeat yourself ¯\_(ツ)_/¯")
+      print("Already guessed, don't repeat yourself please ¯\_(ツ)_/¯")
 
     # Check guessed letter
     for position in range(word_length):
