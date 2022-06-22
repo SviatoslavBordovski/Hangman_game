@@ -36,6 +36,6 @@ def guess_letter():
     if lives == 0:
       print("You lose.")
       
-  print("Wohooo! Guessed word => ", f"{''.join(display)}")
+  print("Wohooo! Guessed word is => ", f"{''.join(display)}")
 
 guess_letter()
