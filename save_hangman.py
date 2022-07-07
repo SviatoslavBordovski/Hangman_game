@@ -10,7 +10,7 @@ def guess_letter():
   lives = 6
   display = []
 
-  # Add underscores to the list
+  # Add underscores to the list for better view
   for _ in range(word_length):
       display += "_"
 
