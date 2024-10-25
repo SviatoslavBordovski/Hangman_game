@@ -5,5 +5,8 @@ word_list = [
   "hotfix", 
   "frontend",
   "backend",
-  "environment"
+  "environment",
+  "github",
+  "development",
+  "automation"
 ]
